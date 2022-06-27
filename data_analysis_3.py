@@ -1,3 +1,4 @@
+#compute area in acres with input of feet
 l=float(input("Enter length in feet"))
 w=float(input("Enter width in feet"))
 a=l*w
