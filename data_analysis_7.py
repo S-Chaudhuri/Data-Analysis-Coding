@@ -1,3 +1,4 @@
+#Maximum of three numbers but giving input of three integers
 a = int(input("Enter 1st number"))
 b = int(input("Enter 2st number"))
 c = int(input("Enter 3st number"))
